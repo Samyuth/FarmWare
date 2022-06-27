@@ -8,4 +8,4 @@ The buisness model would lie in installation and maintenence of the technology. 
 
 ## License
 
-The license for this project is LGPL because generally any extensions or modifications should remain free and open however if this library is used to as a part of a larger product it would not make sense to restrict contributers.
+The license for this project is LGPL because generally any extensions or modifications should remain free and open however if this library is used to as a part of a larger product it would not make sense to restrict users. For example there could be a company that wishes to use the library in proprietary software that offers a much more comprehensive service.
